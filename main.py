@@ -9,7 +9,7 @@ import json
 import re
 import urllib.parse
 
-API_TOKEN = "8498478739:AAFwbdWmT7reWAdp5FZ2jAdOGgaojY1Sc0A"
+API_TOKEN = "8930938432:AAHOzYgBTHQRKEWObcl1gVYTxxdRYTyiv0Q"
 bot = telebot.TeleBot(API_TOKEN)
 
 # ============ CONFIGURATION ============
